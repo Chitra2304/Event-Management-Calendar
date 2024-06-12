@@ -1,3 +1,2 @@
 ﻿# Event-Management-Calendar
-# A responsive Event-Management-Calendar where events can be listed and deleted with respect to particular dates on calendar.
-
+A responsive event management calendar where events can be listed and deleted for any date on the calendar.
